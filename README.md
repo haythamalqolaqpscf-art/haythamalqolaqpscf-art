@@ -22,9 +22,21 @@ I work across operational data management, reporting, and monitoring and evaluat
 - **Information Management Focal Point** — North Area of Responsibility
 - **MEAL Officer** — 3 years of monitoring, evaluation, accountability, and learning experience
 
-## Portfolio
+## Selected Projects
 
-This profile is the starting point for a public portfolio. I will add documented examples using public or synthetic data, with no confidential operational or personal data.
+### Information Systems
+
+- MEAL Tracking System
+- Food Assistance Tracking System
+- Fuel Management and Tracking System
+- IDP Information Management System
+- Clinic Management System
+
+### Power BI Dashboards
+
+- Staff Attendance Dashboard
+- IDP Situation Dashboard
+- IDP Movement Dashboard — inflows and outflows
 
 ## Contact
 
