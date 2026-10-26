@@ -1,16 +1,31 @@
-## Hi there 👋
+# Haytham Khaled Alqolaq
 
-<!--
-**haythamalqolaqpscf-art/haythamalqolaqpscf-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Systems Engineer | Data & Information Management**
 
-Here are some ideas to get you started:
+I work across operational data management, reporting, and monitoring and evaluation. I bring 15+ years of SQL experience and use structured data, dashboards, and GIS to make information clearer and more useful for decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core areas
+
+- SQL querying, data consolidation, and structured reporting
+- Data quality checks and information verification
+- Power BI dashboards and performance monitoring
+- GIS mapping and location-based analysis
+- MEAL and operational information management
+
+## Tools
+
+**SQL · Power BI · Excel · QGIS · Google Earth · SAP**
+
+## Professional experience
+
+- **Admin Officer** — UNRWA, North Area of Responsibility
+- **Information Management Focal Point** — North Area of Responsibility
+- **MEAL Officer** — 3 years of monitoring, evaluation, accountability, and learning experience
+
+## Portfolio
+
+This profile is the starting point for a public portfolio. I will add documented examples using public or synthetic data, with no confidential operational or personal data.
+
+## Contact
+
+[Email](mailto:haythamalqolaq.pscf@gmail.com) · [GitHub](https://github.com/haythamalqolaqpscf-art)
